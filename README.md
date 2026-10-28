@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeshwanthika07/JeshwanthikaPothamchetty/main/header_banner.svg" width="100%" alt="Jeshwanthika Pothamchetty Portfolio Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:311042,50:7C3AED,100:F43F5E&height=220&section=header&text=Jeshwanthika%20Pothamchetty&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Deep%20Learning%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Jeshwanthika Pothamchetty Portfolio Banner"/>
 </p>
 
 <p align="center">
@@ -193,5 +193,5 @@ JeshwanthikaPothamchetty/
 - **Email**: [pjeshwanthika9@gmail.com](mailto:pjeshwanthika9@gmail.com)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jeshwanthika07/JeshwanthikaPothamchetty/main/footer_banner.svg" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:311042,50:7C3AED,100:F43F5E&height=100&section=footer" width="100%" alt="Footer Banner"/>
 </p>
